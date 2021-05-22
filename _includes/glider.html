@@ -1,14 +1,11 @@
-<div class="glider-contain">
-  <div class="glider">
-    {% for entry in entries %}
-    <div class="slide">
-      <img src="{{ entry.image_src }}" />
-    </div>
-    {% endfor %}
+<div class="splide">
+  <div class="splide__track">
+    <ul class="splide__list">
+      {% for entry in include.entries %}
+      <li class="slide splide__slide">
+        <img src="{{ entry.image_src }}" />
+      </li>
+      {% endfor %}
+    </ul>
   </div>
-
-  <button aria-label="Previous" class="glider-prev">‹</button>
-  <button aria-label="Next" class="glider-next">›</button>
-  <div role="tablist" class="dots"></div>
 </div>
-

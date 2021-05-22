@@ -1,0 +1,36 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@2.4.21/dist/css/splide.min.css">
+<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/js/splide.min.js"></script>
+
+<style>
+.glider-prev, .glider-next {
+  color: #fff;
+  padding: 1em 2em;
+  margin-top: -2em;
+  top: 50%;
+}
+.slide {
+  margin: 0.4em;
+    max-height: 480px;
+}
+.slide img {
+  width: auto;
+  max-width: none;
+  height: 100%;
+}
+</style>
+<script>
+window.addEventListener('load', function() {
+  var gliders = document.getElementsByClassName('splide');
+  for (var i=0, l=gliders.length; i<l; ++i) {
+    var glider = gliders[i];
+    new Splide(glider, {
+      type: 'loop',
+      rewind: true,
+      perPage: 1,
+      perMove: 1,
+      height: '420px',
+      autoWidth: true,
+    }).mount();
+  }
+});
+</script>
