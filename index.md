@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Helswingi
 
-You can use the [editor on GitHub](https://github.com/karrirasinmaki/helswingi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Helswingi is an authentic swing dance festival in Helsinki, Finland. It brings together fantastic jazz bands, wonderful people and heavenly dances.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Big Apple routine at Helswingi 2019](https://2019.helswingi.fi/ext-assets/images.squarespace-cdn.com/ke17ZwdGBToddI8pDm48kJHTVw8B23Ujul95xngJgdN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcxOh3uKufTtZ2uAvvaWTW-xJ8IAEfGnm_qRGGIW700cocirJjwNwxkbauT3i3vPKg/72269998_705833016582902_275783049826795520_o.jpg?format=1000w)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karrirasinmaki/helswingi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
