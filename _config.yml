@@ -1,5 +1,18 @@
 theme: minima
 
+author: Helswingi
+email: info@helswingi.fi
+description: Helswingi is an authentic swing dance festival in Helsinki, Finland. It brings together fantastic jazz bands, wonderful people and heavenly dances.
+
+# Social
+facebook_username: helswingi
+instagram_username: helswingi
+
 title: Helswingi
 header_pages:
-  #- about.md
+  -
+    title: 2019
+    url: "#memories-2019"
+  -
+    title: 2018
+    url: "#memories-2018"

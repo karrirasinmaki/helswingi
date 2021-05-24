@@ -1,0 +1,37 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+
+  <style>
+  {% if page.header.image_src %}
+  .site-header {
+    background-image: url("{{ page.header.image_src }}");
+    background-size: cover;
+    background-position: center center;
+    padding-bottom: 56.25%;
+  }
+  .site-header .site-title,
+  .site-header .site-nav .page-link {
+    color: #fefefe;
+  }
+  @media (orientation: portrait) {
+    .site-header {
+      padding-bottom: 75%;
+    }
+  }
+  @media (orientation: landscape) {
+    .glider {
+      width: 140%;
+      margin-left: -20%;
+    }
+  }
+  {% endif %}
+  </style>
+</head>

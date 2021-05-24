@@ -1,5 +1,9 @@
 ---
 layout: home
+header:
+  image_src: /uploads/cover-lander-2021.jpg
+
+
 pics2019:
 - image_src: https://2019.helswingi.fi/ext-assets/images.squarespace-cdn.com/ke17ZwdGBToddI8pDm48kJHTVw8B23Ujul95xngJgdN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcxOh3uKufTtZ2uAvvaWTW-xJ8IAEfGnm_qRGGIW700cocirJjwNwxkbauT3i3vPKg/72269998_705833016582902_275783049826795520_o.jpg?format=1000w
 - image_src: https://2019.helswingi.fi/ext-assets/images.squarespace-cdn.com/ke17ZwdGBToddI8pDm48kJHTVw8B23Ujul95xngJgdN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcxOh3uKufTtZ2uAvvaWTW-xJ8IAEfGnm_qRGGIW700cocirJjwNwxkbauT3i3vPKg/71404110_705833393249531_7512861148983590912_o.jpg?format=1000w
@@ -44,23 +48,25 @@ pics2018:
 
 Helswingi is an authentic swing dance festival in Helsinki, Finland. It brings together fantastic jazz bands, wonderful people and heavenly dances.
 
-## Memories
-
-Photos:
-[www.facebook.com/pg/helswingi/photos/?tab=albums](www.facebook.com/pg/helswingi/photos/?tab=albums
-)
-
-Videos:
-[2019](https://www.youtube.com/playlist?list=PLXuPJeS8W-KoNSRpyE9D-wawjaavGGXZc) | [2018](https://www.youtube.com/playlist?list=PLXuPJeS8W-KqpbqSN9JVdjIyj2FCOUq9i)
+<br/>
+<br/>
 
 ## Memories 2019
 {% include glider.html entries=page.pics2019 %}
-Photos: Nuria Aguade Fotografia - [www.nuriaaguade.com](http://www.nuriaaguade.com/)
+Event photos: Nuria Aguade Fotografia - [www.nuriaaguade.com](http://www.nuriaaguade.com/)  
+Photobooth photos: Essi Orpana - [www.essiorpana.com](https://www.essiorpana.com/)
 
+More photos: [www.facebook.com/pg/helswingi/photos/?tab=albums](www.facebook.com/pg/helswingi/photos/?tab=albums)  
+Videos: [YouTube - Helswingi 2019](https://www.youtube.com/playlist?list=PLXuPJeS8W-KoNSRpyE9D-wawjaavGGXZc)  
 Archived site: [2019.helswingi.fi](http://2019.helswingi.fi)
+
+<br/>
 
 ## Memories 2018
 {% include glider.html entries=page.pics2018 %}
-Photos: Eric Bobrie, For Dancers Only - [www.ebobrie.com](www.ebobrie.com)
+Event photos: Eric Bobrie, For Dancers Only - [www.ebobrie.com](www.ebobrie.com)  
+Photobooth photos: Essi Orpana - [www.essiorpana.com](https://www.essiorpana.com/)
 
+More photos: [www.facebook.com/pg/helswingi/photos/?tab=albums](www.facebook.com/pg/helswingi/photos/?tab=albums)  
+Videos: [YouTube - Helswingi 2018](https://www.youtube.com/playlist?list=PLXuPJeS8W-KqpbqSN9JVdjIyj2FCOUq9i)  
 Archived site: [2018.helswingi.fi](http://2018.helswingi.fi)
