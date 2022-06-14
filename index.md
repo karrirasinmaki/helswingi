@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  image_src: /uploads/cover-lander-2021.jpg
+  image_src: /uploads/helswingi-cover-2022-web.png
 
 
 pics2019:
