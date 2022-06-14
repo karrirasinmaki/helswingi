@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  image_src: /uploads/helswingi-cover-2022-web.png
+  image_src: /uploads/helswingi-cover-2022-web.jpg
 
 
 pics2019:
@@ -47,6 +47,21 @@ pics2018:
 ---
 
 Helswingi is an authentic swing dance festival in Helsinki, Finland. It brings together fantastic jazz bands, wonderful people and heavenly dances.
+
+<br/>
+<br/>
+
+## Helswingi 2022
+
+After two years of swing dance starvation, it is with great delight that we can now announce:
+
+**Helswingi’s heartbeat is swinging again!**
+
+We are very excited to welcome you to a joyous reunion of world-class jazz musicians and swing dancing from the 9th–11th of September in Helsinki.
+
+All event and registration details will be posted soon.
+
+Facebook event: [https://www.facebook.com/events/350545220496430](https://www.facebook.com/events/350545220496430)
 
 <br/>
 <br/>
